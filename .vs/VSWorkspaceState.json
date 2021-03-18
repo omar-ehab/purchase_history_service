@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\controllers",
+    "\\migrations",
+    "\\models",
+    "\\routes"
+  ],
+  "SelectedNode": "\\migrations\\20210318220224-create-history.js",
+  "PreviewInSolutionExplorer": false
+}
